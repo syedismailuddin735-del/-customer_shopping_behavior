@@ -12,14 +12,14 @@ This project analyzes customer shopping behavior to uncover insights into demogr
 - **Metrics:** Average purchase amount ($59.76), average review rating (3.8)
 
 
-🛠 Tools Used
+🛠 Tools Used:
 - **Python** → Data loading, cleaning, exploratory analysis  
 - **SQL (PostgreSQL/MySQL/SQL Server)** → Querying structured data  
 - **Power BI** → Interactive dashboard & visualizations  
  
 
 
-🔎 Steps
+🔎 Steps:
 1. **Data Loading & Cleaning** – Imported dataset into Python, handled missing values, standardized formats.  
 2. **Exploratory Data Analysis (EDA)** – Identified trends in purchase behavior, demographics, and product categories.  
 3. **SQL Queries** – Ran queries to calculate revenue, sales distribution, and customer segmentation.  
@@ -27,7 +27,7 @@ This project analyzes customer shopping behavior to uncover insights into demogr
 5. **Report & Presentation** – Summarized findings into structured insights and created recruiter‑friendly slides.
 
 
-📊 Dashboard Highlights
+📊 Dashboard Highlights:
 - **Customer Base:** 3,900 customers  
 - **Subscription Status:** 27% subscribed, 73% not subscribed  
 - **Revenue by Category:** Clothing dominates (>100K), followed by Accessories; Outerwear lowest.  
@@ -35,21 +35,20 @@ This project analyzes customer shopping behavior to uncover insights into demogr
 - **Revenue by Age Group:** Young Adults generate the highest revenue (~60K).  
 - **Sales by Age Group:** Young Adults also lead in sales (~1,000).  
 
- ✅ Results & Insights
+ ✅ Results & Insights:
 - **Clothing** is the most profitable and popular category.  
 - **Young Adults** are the most valuable demographic, both in revenue and sales.  
 - **Subscription programs** have room for growth (currently only 27% subscribed).  
 - **Average purchase amount** is moderate ($59.76), suggesting potential for upselling strategies.  
 - **Customer satisfaction** (avg. rating 3.8) indicates scope for improvement in product/service quality.  
 
-- Business Recommendations -
-  
-● Boost Subscriptions – Promote exclusive benefits for subscribers. 
-● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” 
+Business Recommendations:
+- Boost Subscriptions – Promote exclusive benefits for subscribers. 
+- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” 
 segment. 
-● Review Discount Policy – Balance sales boosts with margin control. 
-● Product Positioning – Highlight top-rated and best-selling products in campaigns. 
-● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping 
+- Review Discount Policy – Balance sales boosts with margin control. 
+- Product Positioning – Highlight top-rated and best-selling products in campaigns. 
+- Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping 
 users. 
  
 
