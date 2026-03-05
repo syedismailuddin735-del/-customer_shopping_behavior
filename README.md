@@ -4,7 +4,7 @@
 🛒 Customer Shopping Behavior – Analytics Report
 
 📌 Overview
-This project analyzes customer shopping behavior to uncover insights into demographics, purchasing habits, and sales performance. The workflow combines **Python (EDA & cleaning)**, **SQL (queries)**, **Power BI (dashboard)**, and **Gamma (presentation)** to deliver a complete end‑to‑end data analytics solution.
+This project analyzes customer shopping behavior to uncover insights into demographics, purchasing habits, and sales performance. The workflow combines **Python (EDA & cleaning)**, **SQL (queries)**, **Power BI (dashboard)** to deliver a complete end‑to‑end data analytics solution.
 
 
 
@@ -18,7 +18,7 @@ This project analyzes customer shopping behavior to uncover insights into demogr
 - **Python** → Data loading, cleaning, exploratory analysis  
 - **SQL (PostgreSQL/MySQL/SQL Server)** → Querying structured data  
 - **Power BI** → Interactive dashboard & visualizations  
-- **Gamma** → Professional presentation slides  
+ 
 
 
 🔎 Steps
