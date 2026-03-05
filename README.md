@@ -42,7 +42,14 @@ This project analyzes customer shopping behavior to uncover insights into demogr
 - **Average purchase amount** is moderate ($59.76), suggesting potential for upselling strategies.  
 - **Customer satisfaction** (avg. rating 3.8) indicates scope for improvement in product/service quality.  
 
-
+- Business Recommendations - 
+● Boost Subscriptions – Promote exclusive benefits for subscribers. 
+● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” 
+segment. 
+● Review Discount Policy – Balance sales boosts with margin control. 
+● Product Positioning – Highlight top-rated and best-selling products in campaigns. 
+● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping 
+users. 
  
 
 
